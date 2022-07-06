@@ -1,2 +1,2 @@
-# wucheng
+# Wucheng
 Personal Webpage
